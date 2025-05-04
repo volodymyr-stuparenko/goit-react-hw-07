@@ -1,0 +1,13 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 3rem;
+}
+
+.title {
+  text-align: start;
+  margin-bottom: 20px;
+  font-size: 32px;
+  color: rgb(0, 119, 246);
+}
