@@ -12,7 +12,7 @@ export function Loader() {
     <div className={css.loader}>
       <p>Loading...</p>
       <BeatLoader
-        color="#b29eff"
+        color="rgb(0, 119, 246)"
         loading={true}
         cssOverride={override}
         size={25}
